@@ -1,7 +1,7 @@
 # wp-nginx
-[bear85/wp-nginx](https://hub.docker.com/repository/docker/bear85/wp-nginx)
+:whale2:[bear85/wp-nginx](https://hub.docker.com/repository/docker/bear85/wp-nginx)
 
-[mysql:5.7.38-debian](https://hub.docker.com/layers/mysql/library/mysql/5.7.38-debian/images/sha256-e73f0d1cb2e042d4b93fcd4a301c147cbc0a28e982c0e965901162a733991df6?context=explore)
+:whale2:[mysql:5.7.38-debian](https://hub.docker.com/layers/mysql/library/mysql/5.7.38-debian/images/sha256-e73f0d1cb2e042d4b93fcd4a301c147cbc0a28e982c0e965901162a733991df6?context=explore)
 
 ```bash
 docker build --no-cache -t bear85/nginx:v1.2 .
